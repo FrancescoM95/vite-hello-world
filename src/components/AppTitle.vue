@@ -13,6 +13,6 @@ h1 {
     text-align: center;
     margin-top: 50px;
     font-size: 3rem;
-    text-shadow: 2px 2px 1px goldenrod;
+    text-shadow: 2px 2px 1px white;
 }
 </style>
